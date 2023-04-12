@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Bastián Martínez, a computer engineer with a passion for creating robust, scalable web applications using cutting-edge technologies. With 4 years of experience in the industry, I have honed my skills in full-stack development, software architecture, and cloud technologies.
+I'm Bastián Martínez, a computer science engineer with a passion for creating robust, scalable web applications using cutting-edge technologies. With 4 years of experience in the industry, I have honed my skills in full-stack development, software architecture, and cloud technologies.
 
 ## 💻 Tech Stack
 I'm proficient in the following technologies:
