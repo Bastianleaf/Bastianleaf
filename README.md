@@ -4,9 +4,10 @@ I'm Bastián Martínez, a computer science engineer with a passion for creating 
 ## 💻 Tech Stack
 I'm proficient in the following technologies:
 
-- Languages: Python, Javascript, Java, C
+- Languages: Python, Javascript, Java, C, Dart
 - Front-end: Vue.js, React
- -Back-end: Django, Flask
+- Back-end: Django, Flask
+- Mobile: Flutter
 - Databases: PostgreSQL, MySQL, Elasticsearch, Redis
 - Cloud Services: AWS, Google Cloud
 - Videogames: Godot, Unity
@@ -24,7 +25,7 @@ I'm always looking to expand my knowledge and stay up-to-date with the latest te
 
 - AR with Metaspark
 - Agile Project Management
-- Quasar for web and mobile development.
+- Flutter for mobile development.
 
 ## 💬 Let's Connect
 If you'd like to learn more about my work or have a project in mind, feel free to reach out to me. You can find me by [email](mailto:hello@bmartinez.cl).
