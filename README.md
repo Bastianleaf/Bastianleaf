@@ -12,7 +12,7 @@ I’m currently a **Tech Lead at HF Solutions**, where I coordinate frontend and
 I'm proficient in:
 
 - **Languages:** Python, JavaScript, Java, C, Dart  
-- **Front-end:** Vue.js, React  
+- **Front-end:** Angular, Vue.js, React  
 - **Back-end:** Django, Flask  
 - **Mobile:** Flutter, Swift, Kotlin, Godot  
 - **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis  
