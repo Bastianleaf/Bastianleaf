@@ -25,29 +25,29 @@ I'm proficient in:
 
 Here are some of the projects I’ve worked on:
 
-- **Copec Personas**  
+- **Copec Personas | Tech Lead**
   Mobile experience for individual Copec users, focused on personalized services, payments, and loyalty programs.  
   🔗 [Official website](https://www.appcopec.cl)  
   📱 [Google Play](https://play.google.com/store/apps/details?id=cl.copec.PagoClick&hl=es_CL) | [App Store](https://apps.apple.com/cl/app/copec/id699938289)
 
-- **Copec Empresa**  
+- **Copec Empresa | Tech Lead****  
   Web and mobile solutions for business clients to manage fuel, fleet, and operational services.  
   🔗 [Official website](https://appcopecempresa.cl) | [Web Application](https://admin.appcopecempresa.cl/Ingreso/AdministradorCopecEmpresa)
   📱 [Google Play](https://play.google.com/store/apps/details?id=cl.copec.muevo) | [App Store](https://apps.apple.com/us/app/copec-empresa/id1480375224)
 
-- **Red Movilidad**  
+- **Red Movilidad | Tech Lead**  
   Urban transport application that integrates trip planning, bus tracking, metro schedules, and real-time alerts for Santiago’s public transport system.  
   🔗 [Official website](https://www.red.cl)  
   📱 [Google Play](https://play.google.com/store/apps/details?id=cl.dtpm.redapp) | [App Store](https://apps.apple.com/cl/app/red/id1456634261)
 
-- **Red Regional**  
+- **Red Regional | Tech Lead**  
   Public transport app supporting regional cities across Chile, providing route search, bus tracking, and travel information.  
   📱 [Google Play](https://play.google.com/store/apps/details?id=cl.transapp.redregional) | [App Store](https://apps.apple.com/cl/app/red-regional/id1560462414)
 
-- **[ADATRAP](https://github.com/SmartcitySantiagoChile/fondefVizServer)**  
+- **[ADATRAP](https://github.com/SmartcitySantiagoChile/fondefVizServer) | Full Stack Developer**  
   A web platform for processing and visualizing transportation data in Chile’s metropolitan region. Built with Django, jQuery, and Bootstrap.
 
-- **[OPCT](https://github.com/SmartcitySantiagoChile/opct-frontend)**  
+- **[OPCT](https://github.com/SmartcitySantiagoChile/opct-frontend) | Full Stack Developer**  
   A communication and management tool for transport service providers in Santiago.
 
 ---
