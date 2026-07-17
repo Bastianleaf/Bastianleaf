@@ -25,12 +25,12 @@ I'm proficient in:
 
 Here are some of the projects I’ve worked on:
 
-- **Copec Personas | Tech Lead**
+- **Copec Personas | Tech Lead**  
   Mobile experience for individual Copec users, focused on personalized services, payments, and loyalty programs.  
   🔗 [Official website](https://www.appcopec.cl)  
   📱 [Google Play](https://play.google.com/store/apps/details?id=cl.copec.PagoClick&hl=es_CL) | [App Store](https://apps.apple.com/cl/app/copec/id699938289)
 
-- **Copec Empresa | Tech Lead****  
+- **Copec Empresa | Tech Lead**  
   Web and mobile solutions for business clients to manage fuel, fleet, and operational services.  
   🔗 [Official website](https://appcopecempresa.cl) | [Web Application](https://admin.appcopecempresa.cl/Ingreso/AdministradorCopecEmpresa)
   📱 [Google Play](https://play.google.com/store/apps/details?id=cl.copec.muevo) | [App Store](https://apps.apple.com/us/app/copec-empresa/id1480375224)
